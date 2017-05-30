@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageHandler</string>
+    <string name="url">Enter URL</string>
+    <string name="download">Download</string>
+    <string name="image_downloaded">Your image will appear here</string>
+</resources>
